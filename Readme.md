@@ -1,4 +1,4 @@
-# kaggle competition exclusive image
+# [kaggle competition exclusive image](https://www.kaggle.com/c/inclusive-images-challenge/leaderboard)
 
 ## difficulties
 the bigges difficulty lies in the dataset is so BIG(512G), we narrow down the number of classes to fit the model. listed [here](https://www.kaggle.com/jpmiller/basic-eda-with-images)
